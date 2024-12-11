@@ -5,11 +5,24 @@ A su vez, creo cluster para clasificar a los usuarios de acuerdo a su comportami
 
 ## Herramientas y tipo de proyecto
 
-sklearn | pandas | matplotlib.pyplot | seaborn | machine learning | clustering | ETL | 
+![Static Badge](https://img.shields.io/badge/sklearn-blue?style=for-the-badge)
+ | ![Static Badge](https://img.shields.io/badge/pandas-blue?style=for-the-badge&logo=pandas)
+ | ![Static Badge](https://img.shields.io/badge/matplotlib.pyplot-blue?style=for-the-badge)
+ | ![Static Badge](https://img.shields.io/badge/seaborn-blue?style=for-the-badge)
+ | ![Static Badge](https://img.shields.io/badge/machine%20learning-blue?style=for-the-badge)
+ | ![Static Badge](https://img.shields.io/badge/clustering-blue?style=for-the-badge)
+ | ![Static Badge](https://img.shields.io/badge/ETL-blue?style=for-the-badge)| 
 
 ## Metodología
+**Analisis Exploratorio de datos (EDA):** 
+**Modelado predictivo:**
+**Clustering:**
 
 ## Preguntas clave
+-¿Cuál es la probabilidad de perdida (para el próximo mes) para cada cliente?
+-¿Cual es el perfil de usuarios que suele cancelar?
+-¿Que factores impactan la pérdida? 
 
 ## Conclusiones y recomendaciones
 
+Se descubrio que los usuarios entre los 25 y 30 años son los usuarios que tienen mayor tasa de cancelación, suelen vivir cerca y solo el 32% pertenece a un partner.
